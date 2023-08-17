@@ -1,0 +1,12 @@
+body{
+    background-color: aquamarine;
+}
+.box{
+    margin: auto;
+    width: 350px;
+    background-color: #000000;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
